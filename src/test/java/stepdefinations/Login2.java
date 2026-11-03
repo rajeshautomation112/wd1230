@@ -85,4 +85,9 @@ public class Login2 {
         soft.assertEquals(expected, error);
     }
 
+
+    public void git_commit_demo(){
+
+        System.out.println("This is git commit demo");
+    }
 }
